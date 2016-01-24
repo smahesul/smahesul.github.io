@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "graple-docs"
+title:  "About"
 date:   2016-01-17 14:14:38 -0500
 categories: GRAPLEr
 ---
